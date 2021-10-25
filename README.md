@@ -102,3 +102,4 @@ I'm a front-end software engineer with backend knowledge.
 -   [GSAP (Green Sock Animation Platform) Web SVG Animation Tutorial](https://www.youtube.com/watch?v=2wSzfr49yhk)
 -   [Magical GSAP Text Hover Animation Tutorial // Landing Page](https://www.youtube.com/watch?v=a3-lwxTkUKI)
 -   [Javascript Scroll Animation Tutorial | GSAP and ScrollMagic Tutorial](https://www.youtube.com/watch?v=fR0tHI0nFYk&list=PLDyQo7g0_nsXEOxGlAgccV8fu-cHZnI5B&index=4)
+-   [Page Animations With Javascript Tutorial](https://www.youtube.com/watch?v=AKmoccuRiN4&list=PLDyQo7g0_nsXEOxGlAgccV8fu-cHZnI5B&index=4)
