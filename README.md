@@ -49,7 +49,7 @@ I have learned GSAP different API.
     -   restart()
     -   timeScale()
     -   seek()
-    -   progress()]
+    -   progress()
 
 -   Eases
 
@@ -80,9 +80,13 @@ I have learned GSAP different API.
 
 **Client:** HTML, CSS, Javascript, GSAP
 
+## Optimization
+
+I refacotr Javascript Scroll Animation Tutorial | GSAP and ScrollMagic Tutorial by deved from GSAP v2 to GSAP V3
+
 ## 🚀 About Me
 
-I'm a front-end developer with backend knowledge.
+I'm a front-end software engineer with backend knowledge.
 
 ## 🛠 Skills
 
@@ -96,3 +100,5 @@ I'm a front-end developer with backend knowledge.
 -   [Lean GSAP in 30 Minutes](https://www.youtube.com/watch?v=m6PDUIF24v4)
 -   [Magical GSAP Text Hover Animation Tutorial // Landing Page](https://www.youtube.com/watch?v=a3-lwxTkUKI)
 -   [GSAP (Green Sock Animation Platform) Web SVG Animation Tutorial](https://www.youtube.com/watch?v=2wSzfr49yhk)
+-   [Magical GSAP Text Hover Animation Tutorial // Landing Page](https://www.youtube.com/watch?v=a3-lwxTkUKI)
+-   [Javascript Scroll Animation Tutorial | GSAP and ScrollMagic Tutorial](https://www.youtube.com/watch?v=fR0tHI0nFYk&list=PLDyQo7g0_nsXEOxGlAgccV8fu-cHZnI5B&index=4)
