@@ -82,7 +82,7 @@ I have learned GSAP different API.
 
 ## Optimization
 
-I refacotr Javascript Scroll Animation Tutorial | GSAP and ScrollMagic Tutorial by deved from GSAP v2 to GSAP V3
+I refactor Javascript Scroll Animation Tutorial | GSAP and ScrollMagic by deved from GSAP v2 to GSAP V3
 
 ## 🚀 About Me
 
@@ -103,3 +103,4 @@ I'm a front-end software engineer with backend knowledge.
 -   [Magical GSAP Text Hover Animation Tutorial // Landing Page](https://www.youtube.com/watch?v=a3-lwxTkUKI)
 -   [Javascript Scroll Animation Tutorial | GSAP and ScrollMagic Tutorial](https://www.youtube.com/watch?v=fR0tHI0nFYk&list=PLDyQo7g0_nsXEOxGlAgccV8fu-cHZnI5B&index=4)
 -   [Page Animations With Javascript Tutorial](https://www.youtube.com/watch?v=AKmoccuRiN4&list=PLDyQo7g0_nsXEOxGlAgccV8fu-cHZnI5B&index=4)
+-   [Liquid Image Transition With Javascript Tutorial](https://www.youtube.com/watch?v=HlCzCq46YTk&list=PLDyQo7g0_nsXEOxGlAgccV8fu-cHZnI5B&index=8)
