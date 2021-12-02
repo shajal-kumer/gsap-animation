@@ -90,7 +90,7 @@ I'm a front-end software engineer with backend knowledge.
 
 ## 🛠 Skills
 
-**Front-end** : Javascript, React, HTML, CSS, Bootstrap, Tailwind, SASS, SVG, GSAP
+**Front-end** : Javascript, React, Next.js, HTML, CSS, Bootstrap, Tailwind, SASS, SVG, GSAP
 
 **Aditional Backend** : Node.js, Express.js, MongoDB, MySQL
 
