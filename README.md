@@ -1,6 +1,6 @@
 # GSAP Animation Practice
 
-This repo is the part of my frot-end development journey. In modern web app we can see there are using so many web animation. So i practice GSAP for web animation. GSAP is really a very awesome and simple but very powerfull animation libray.
+This repo is part of my frot-end development journey. In the modern web app, we can see there are using so many web animations. So I have practised GSAP for web animation. GSAP is really a very awesome and simple but very powerful animation library.
 
 ## Demo
 
